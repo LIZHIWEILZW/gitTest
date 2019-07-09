@@ -6,7 +6,7 @@ public class HelloGit {
 		//测试Git
 		System.out.println("Hello Git!");
 		//测试冲突
-		System.out.println("测试冲突");
+		System.out.println("测试冲突第三次修改");
 	}
 
 }
