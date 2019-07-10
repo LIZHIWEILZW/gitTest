@@ -7,6 +7,9 @@ public class HelloGit {
 		System.out.println("Hello Git!");
 		//后面的提交
 		System.out.println("测试冲突后面的提交");
+		
+		//在hotfix下修复bug
+		System.out.println("在hotfix下修复bug...loading");
 	}
 
 }
